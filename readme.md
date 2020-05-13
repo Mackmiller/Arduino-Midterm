@@ -6,6 +6,8 @@
 
 The repository for my midterm project for my Physical Computing class while an undergrad at the University of Miami.
 
+The project creates a physical environment for music that is heard when a button is pressed.
+
 
 ## Code
 
