@@ -1,3 +1,20 @@
+# Arduino Midterm Project
+
+The repository for my midterm project for my Physical Computing class while an undergrad at the University of Miami.
+
+
+## Code
+
+This project was built using Processing, C++, and Arduino
+
+
+## Contributors
+
+- [@mackmilllr](https://twitter.com/mackmilllr) Coder
+- [@zevensuy](https://twitter.com/Zevensuy) Advisor
+
+## Additional Notes
+
 MIDTERM PROJECT: Chord Quality Associations
 
 As a music major, I've learned the hard way that the more you learn about different aspects of music (music theory, ear training, etc) at a younger age, the more it will pay off down the line if you chose to pursue a major and/or a career in music.
@@ -39,7 +56,6 @@ EXPANSION
 Next, I would try to incorporate other chord qualities, such as augmented and diminished. We typically associate augmented chords (whole tone scale) with a dream state, and diminished chords with a terrifying, person-tied-to-the-traintracks scenario. These chords have very specific associations, but they involve more elements and would be more compicated to display simply.
 
 
-
 LINK TO VIDEOS:
 https://drive.google.com/open?id=0B1wwFJOwtbwjWkZxWjdramNFd0U
 
@@ -53,7 +69,7 @@ I went through several other libraries before landing on Len's library.
 I initially was going to construct a keyboard-like structure onto the arduino, capable of playing 8 notes. I eventually deemed this as being too complicated for the user, especially since the goal was recognizing chord qualities, not to play the piano. But this is a great idea for a basic keyboard setup.
 
 2) https://github.com/cjforman/ArduinoPiano
-This was a cool library. I really like how the coder
+This was a cool library.
 
 3) See "Take3" folder for code.
 This was my first real attempt at coding the chords. The coder programmed three notes to play in rapid succession of one another to sound like polyphony, which worked- to a certain extent. This library was a good back up plan until I found something more suitable. I ultimately did not use this library because it is very hard to distinguish the actual chord quality.
